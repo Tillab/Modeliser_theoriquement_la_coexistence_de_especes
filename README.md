@@ -1,5 +1,5 @@
-# Réaliser une étude de marché 
-Projet 11 OpenClassrooms
+# Article Modéliser théoriquement la coexistence des espèces
+Article dans Ecology Letters
 
 ### Contexte et démarche
 Comprendre comment différentes espèces peuvent coexister dans la nature est une question centrale en écologie depuis plusieurs décennies. Dans ce projet, j’ai exploré une explication théorique de la coexistence à l’aide d’un modèle classique de Lotka-Volterra représentant un réseau trophique à trois niveaux. J’ai simulé la dynamique des prédateurs et des proies sur 500 générations avec des équations différentielles ordinaires sous R, puis analysé les communautés obtenues.
